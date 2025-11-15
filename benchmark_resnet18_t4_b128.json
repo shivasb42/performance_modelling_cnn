@@ -1,0 +1,16 @@
+{
+  "arch": "resnet50",
+  "device": "cuda",
+  "batch_size": 128,
+  "avg_batch_time_s": 1.1514509898012557,
+  "throughput_imgs_per_s": 111.16408873129132,
+  "measured_batches": 782,
+  "flops_forward_per_image": 8264873936.0,
+  "flops_forward_per_batch": 1057903863808.0,
+  "flops_train_per_batch_est": 3173711591424.0,
+  "dram_bytes_per_batch_est": 16583995552,
+  "params_bytes": 102228128,
+  "activation_bytes_one_sample": 128161696,
+  "GFLOP_per_s_est": 2756.271538723323,
+  "arithmetic_intensity_Flop_per_byte": 191.37195143791848
+}

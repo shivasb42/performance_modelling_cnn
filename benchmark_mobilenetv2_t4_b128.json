@@ -1,0 +1,16 @@
+{
+  "arch": "mobilenet_v2",
+  "device": "cuda",
+  "batch_size": 128,
+  "avg_batch_time_s": 0.43206921959167244,
+  "throughput_imgs_per_s": 296.24882818768384,
+  "measured_batches": 782,
+  "flops_forward_per_image": 640600016.0,
+  "flops_forward_per_batch": 81996802048.0,
+  "flops_train_per_batch_est": 245990406144.0,
+  "dram_bytes_per_batch_est": 10056809376,
+  "params_bytes": 14019488,
+  "activation_bytes_one_sample": 77857184,
+  "GFLOP_per_s_est": 569.3310122310345,
+  "arithmetic_intensity_Flop_per_byte": 24.460084401225902
+}

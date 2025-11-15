@@ -1,0 +1,16 @@
+{
+  "arch": "mobilenet_v2",
+  "device": "cpu",
+  "batch_size": 4,
+  "avg_batch_time_s": 3.438857903432846,
+  "throughput_imgs_per_s": 1.163176877999813,
+  "measured_batches": 25000,
+  "flops_forward_per_image": 640600016.0,
+  "flops_forward_per_batch": 2562400064.0,
+  "flops_train_per_batch_est": 7687200192.0,
+  "dram_bytes_per_batch_est": 327856672,
+  "params_bytes": 14019488,
+  "activation_bytes_one_sample": 77857184,
+  "GFLOP_per_s_est": 2.235393379972531,
+  "arithmetic_intensity_Flop_per_byte": 23.446831644774335
+}

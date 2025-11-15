@@ -1,0 +1,16 @@
+{
+  "arch": "resnet50",
+  "device": "cpu",
+  "batch_size": 4,
+  "avg_batch_time_s": 0.6598175435638428,
+  "throughput_imgs_per_s": 6.062281973278521,
+  "measured_batches": 25000,
+  "flops_forward_per_image": 8264873936.0,
+  "flops_forward_per_batch": 33059495744.0,
+  "flops_train_per_batch_est": 99178487232.0,
+  "dram_bytes_per_batch_est": 617283360,
+  "params_bytes": 102228128,
+  "activation_bytes_one_sample": 128161696,
+  "GFLOP_per_s_est": 150.31198882089691,
+  "arithmetic_intensity_Flop_per_byte": 160.66930304422914
+}
