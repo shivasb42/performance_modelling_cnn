@@ -325,7 +325,7 @@ This project is licensed under the **MIT License** - see the LICENSE file for de
 
 - **Issues**: Open a GitHub issue for bugs or feature requests
 - **Discussions**: Use GitHub Discussions for questions
-- **Email**: [your-email@example.com](mailto:sb10449@nyu.edu)
+- **Email**: [sb10449@nyu.edu](mailto:sb10449@nyu.edu)
 
 ---
 
